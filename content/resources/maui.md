@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Improving Prosthetic Prehension
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-881-robust-system-design-summer-1998/c7ac8a1d828ba514186f48245ac9b2b9_maui.pdf
+file: /media/courses/16-881-robust-system-design-summer-1998/c7ac8a1d828ba514186f48245ac9b2b9_maui.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: maui.pdf
 uid: c7ac8a1d-828b-a514-186f-48245ac9b2b9

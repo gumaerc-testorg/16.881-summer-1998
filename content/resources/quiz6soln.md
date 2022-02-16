@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Quiz 6 Solutions
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-881-robust-system-design-summer-1998/5ae698c6b341b5d6aca81b0c490a7c87_quiz6soln.xls
+file: /media/courses/16-881-robust-system-design-summer-1998/5ae698c6b341b5d6aca81b0c490a7c87_quiz6soln.xls
 file_type: application/msword
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Other
 title: quiz6soln.xls
 uid: 5ae698c6-b341-b5d6-aca8-1b0c490a7c87
