@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe0587be-771f-f77b-a225-1eba64d2dde3
 resourcetype: Document
 title: HW9_reliability_soln2.pdf
 uid: 96d036ff-5b60-cfd4-3ab3-52d33fdc1349

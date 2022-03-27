@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: L13_Reliability.pdf
 uid: 20a08b23-82d2-c2ee-8077-3678f0d992e7

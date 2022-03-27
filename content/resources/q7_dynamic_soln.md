@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 306b96d9-18b4-cdcb-e6f7-272ad5228a59
 resourcetype: Document
 title: q7_dynamic_soln.pdf
 uid: 6b3e05c9-b4c1-c7f6-e3ad-695326c4ffff

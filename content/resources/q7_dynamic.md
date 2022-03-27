@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 306b96d9-18b4-cdcb-e6f7-272ad5228a59
 resourcetype: Document
 title: q7_dynamic.pdf
 uid: 5b901201-02e6-9bab-895e-70fdffc2ad32

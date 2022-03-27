@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 306b96d9-18b4-cdcb-e6f7-272ad5228a59
 resourcetype: Document
 title: q4_additivity.pdf
 uid: 4b7d622b-e743-ace2-fc09-f8dd13950e4a

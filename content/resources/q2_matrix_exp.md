@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 306b96d9-18b4-cdcb-e6f7-272ad5228a59
 resourcetype: Document
 title: q2_matrix_exp.pdf
 uid: def41f1f-af9a-1771-563e-19767011487f

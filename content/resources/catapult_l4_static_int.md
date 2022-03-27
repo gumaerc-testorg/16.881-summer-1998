@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Other
 title: catapult_l4_static_int.xls
 uid: 70d70b6f-66f2-6466-0072-69d9e7a288a8

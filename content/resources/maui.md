@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: maui.pdf
 uid: c7ac8a1d-828b-a514-186f-48245ac9b2b9

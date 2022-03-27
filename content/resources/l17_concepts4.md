@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: l17_concepts4.pdf
 uid: 7a23f2ac-fb19-3b3e-f2ea-2d9b92ba278c

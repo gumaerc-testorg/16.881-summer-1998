@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: l7_anova4.pdf
 uid: 91368a38-5ca8-6f8e-958c-df7600845dac

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe0587be-771f-f77b-a225-1eba64d2dde3
 resourcetype: Document
 title: HW4_Matrix_Exp.pdf
 uid: 7873ed6c-d526-6aa5-1832-267e9a11278f

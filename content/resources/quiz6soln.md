@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 306b96d9-18b4-cdcb-e6f7-272ad5228a59
 resourcetype: Other
 title: quiz6soln.xls
 uid: 5ae698c6-b341-b5d6-aca8-1b0c490a7c87

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: rd_c_n_factors2.pdf
 uid: 5c25d26a-b69b-c5d2-414e-e5cf63095da0

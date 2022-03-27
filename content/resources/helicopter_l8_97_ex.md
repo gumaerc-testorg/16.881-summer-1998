@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Other
 title: helicopter_l8_97_ex.xls
 uid: 5ddbb5b7-78de-975a-b619-34f029884aa7

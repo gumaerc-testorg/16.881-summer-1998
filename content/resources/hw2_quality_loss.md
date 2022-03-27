@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe0587be-771f-f77b-a225-1eba64d2dde3
 resourcetype: Other
 title: HW2_quality_loss.mcd
 uid: 2c16da01-770a-16ff-8fa0-b535200d1767

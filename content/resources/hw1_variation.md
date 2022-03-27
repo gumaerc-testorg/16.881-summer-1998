@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe0587be-771f-f77b-a225-1eba64d2dde3
 resourcetype: Document
 title: HW1_Variation.pdf
 uid: 11ac8e57-943a-ca5e-cf63-178e5eab6d97

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: rd_ideal_function_v2.pdf
 uid: d1ac5188-bc54-eb3f-f88f-03eaad5de69a
