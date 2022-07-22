@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/d1ac5188bc54eb3ff88f03eaa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rd_ideal_function_v2.pdf
 uid: d1ac5188-bc54-eb3f-f88f-03eaad5de69a
 ---
 Performance characterization
-

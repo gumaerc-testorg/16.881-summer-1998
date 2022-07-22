@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/73e281f8e45b5019eeac8140d
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: corr_monte.mcd
 uid: 73e281f8-e45b-5019-eeac-8140d7fd4c16
 ---
 Corr_monte
-

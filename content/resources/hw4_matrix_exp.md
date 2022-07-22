@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/7873ed6cd5266aa51832267e9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW4_Matrix_Exp.pdf
 uid: 7873ed6c-d526-6aa5-1832-267e9a11278f
 ---
 Matrix Experiments Using Orthogonal Arrays
-

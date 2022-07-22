@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/11ac8e57943aca5ecf63178e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW1_Variation.pdf
 uid: 11ac8e57-943a-ca5e-cf63-178e5eab6d97
 ---
 Homework #1
-

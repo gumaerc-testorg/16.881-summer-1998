@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/c7ac8a1d828ba514186f48245
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: maui.pdf
 uid: c7ac8a1d-828b-a514-186f-48245ac9b2b9
 ---
 Improving Prosthetic Prehension
-

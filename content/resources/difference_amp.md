@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/d9589cacd51ecaf282f73d3b0
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: difference_amp.mcd
 uid: d9589cac-d51e-caf2-82f7-3d3b0200d3e0
 ---
 Difference_amp
-

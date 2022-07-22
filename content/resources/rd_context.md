@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/cc74c7d35d9618cd5f9f119a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rd_context.pdf
 uid: cc74c7d3-5d96-18cd-5f9f-119a25421020
 ---
 Context of Robust Design
-

@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/2f1947e0d6c3b051e3816c40d
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: letters8.mcd
 uid: 2f1947e0-d6c3-b051-e381-6c40d808de8d
 ---
 Letters 8
-

@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/07973439e1f09849eb34adcaf
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW5_spring_back3.mcd
 uid: 07973439-e1f0-9849-eb34-adcaf7a1e634
 ---
 Spring-back
-

@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/44ba950461e1876d977a0e219
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: catapult_l9_2.xls
 uid: 44ba9504-61e1-876d-977a-0e2199a2a665
 ---
 Catapult L9 2
-

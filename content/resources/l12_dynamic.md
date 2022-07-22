@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/acc7375bee1b880edd70c6a87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: L12_Dynamic.pdf
 uid: acc7375b-ee1b-880e-dd70-c6a87042d95e
 ---
 Plan for the Session
-

@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/322d70bbd39537a93b1689d2c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q3_stepsin_rd.pdf
 uid: 322d70bb-d395-37a9-3b16-89d2c60491b4
 ---
 Quiz #3: Steps in Robust Design (Data Analysis)
-

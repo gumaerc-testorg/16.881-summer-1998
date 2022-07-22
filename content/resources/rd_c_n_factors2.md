@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/5c25d26ab69bc5d2414ee5cf6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rd_c_n_factors2.pdf
 uid: 5c25d26a-b69b-c5d2-414e-e5cf63095da0
 ---
 Control and noise factors
-

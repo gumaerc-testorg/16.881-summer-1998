@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/d04474daefe34bf6d632a3c59
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dice_anova.xls
 uid: d04474da-efe3-4bf6-d632-a3c59b9c1baf
 ---
 Dice_Anova
-

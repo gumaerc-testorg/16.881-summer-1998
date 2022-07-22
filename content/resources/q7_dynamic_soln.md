@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/6b3e05c9b4c1c7f6e3ad69532
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q7_dynamic_soln.pdf
 uid: 6b3e05c9-b4c1-c7f6-e3ad-695326c4ffff
 ---
 Solution to Quiz #7: Design of Dynamic Systems
-

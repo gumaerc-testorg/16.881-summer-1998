@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/58bbb72401532bf6a08c34bc0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW8_solution.pdf
 uid: 58bbb724-0153-2bf6-a08c-34bc0f657e1e
 ---
 Temperature Controller Simulation
-

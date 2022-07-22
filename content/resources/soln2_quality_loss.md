@@ -5,6 +5,7 @@ file: /courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: SOLN2_quality_loss.mcd
 uid: c352cf1f-88f6-7b11-4311-f2abd5d0ceeb
 ---
 Solutions
-
