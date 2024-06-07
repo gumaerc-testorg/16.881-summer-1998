@@ -2,6 +2,7 @@
 content_type: resource
 description: Improving Prosthetic Prehension
 file: /courses/16-881-robust-system-design-summer-1998/c7ac8a1d828ba514186f48245ac9b2b9_maui.pdf
+file_size: 166029
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

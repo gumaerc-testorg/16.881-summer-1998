@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Quiz #6: Constructing Orthogonal Arrays'
 file: /courses/16-881-robust-system-design-summer-1998/af6ed19ff530e10a748ee457476314c3_q6_orth_arrays.pdf
+file_size: 154746
 file_type: application/pdf
 learning_resource_types:
 - Exams

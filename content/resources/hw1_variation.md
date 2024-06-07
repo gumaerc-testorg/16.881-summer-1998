@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Homework #1'
 file: /courses/16-881-robust-system-design-summer-1998/11ac8e57943aca5ecf63178e5eab6d97_HW1_Variation.pdf
+file_size: 84732
 file_type: application/pdf
 learning_resource_types:
 - Assignments

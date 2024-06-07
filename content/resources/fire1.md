@@ -2,6 +2,7 @@
 content_type: resource
 description: Fire 1
 file: /courses/16-881-robust-system-design-summer-1998/a1b6550464e6ba428d64b7e1375b65eb_fire1.xls
+file_size: 24064
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
