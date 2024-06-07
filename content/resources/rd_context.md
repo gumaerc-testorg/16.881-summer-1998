@@ -2,6 +2,7 @@
 content_type: resource
 description: Context of Robust Design
 file: /courses/16-881-robust-system-design-summer-1998/cc74c7d35d9618cd5f9f119a25421020_rd_context.pdf
+file_size: 346938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Quiz #4: S/N Ratios & Additivity'
 file: /courses/16-881-robust-system-design-summer-1998/4b7d622be743ace2fc09f8dd13950e4a_q4_additivity.pdf
+file_size: 68395
 file_type: application/pdf
 learning_resource_types:
 - Exams
