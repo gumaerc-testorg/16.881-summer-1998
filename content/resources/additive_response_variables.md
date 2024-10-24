@@ -2,7 +2,7 @@
 content_type: resource
 description: Selection of Quality Characteristics in the Context of Taguchi?s Additive
   S/N Model
-file: /courses/16-881-robust-system-design-summer-1998/1a948ad19f81936c70be7252a2cb6f5d_additive_response_variables.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/1a948ad19f81936c70be7252a2cb6f5d_additive_response_variables.pdf
 file_size: 184079
 file_type: application/pdf
 learning_resource_types:
