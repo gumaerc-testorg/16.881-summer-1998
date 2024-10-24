@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Letters 6
-file: /courses/16-881-robust-system-design-summer-1998/06f2139a9fc16bbbc4d6e2087a8cb5e6_letters6.mcd
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/06f2139a9fc16bbbc4d6e2087a8cb5e6_letters6.mcd
 file_size: 32977
 file_type: application/octet-stream
 learning_resource_types:
