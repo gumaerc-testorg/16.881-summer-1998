@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Standard Orthogonal Arrays
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/4c5c4f68ca83169d69e1a1c2ff0685a0_orthogonalarrays.pdf
+file: /courses/16-881-robust-system-design-summer-1998/4c5c4f68ca83169d69e1a1c2ff0685a0_orthogonalarrays.pdf
 file_size: 42725
 file_type: application/pdf
 learning_resource_types:

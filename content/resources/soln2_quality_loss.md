@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd5d0ceeb_SOLN2_quality_loss.mcd
+file: /courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd5d0ceeb_SOLN2_quality_loss.mcd
 file_size: 136917
 file_type: application/octet-stream
 learning_resource_types:

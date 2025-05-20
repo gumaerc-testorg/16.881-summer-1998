@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Term Project: Final Presentation'
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/7a23f2acfb193b3ef2ea2d9b92ba278c_l17_concepts4.pdf
+file: /courses/16-881-robust-system-design-summer-1998/7a23f2acfb193b3ef2ea2d9b92ba278c_l17_concepts4.pdf
 file_size: 1191059
 file_type: application/pdf
 learning_resource_types:

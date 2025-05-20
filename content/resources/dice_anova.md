@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dice_Anova
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/d04474daefe34bf6d632a3c59b9c1baf_dice_anova.xls
+file: /courses/16-881-robust-system-design-summer-1998/d04474daefe34bf6d632a3c59b9c1baf_dice_anova.xls
 file_size: 18432
 file_type: application/msword
 learning_resource_types:
