@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quality Loss Functions
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/eaaf812565c0de74f7233410d311d795_HW2_Quality_lossv2.pdf
+file: /courses/16-881-robust-system-design-summer-1998/eaaf812565c0de74f7233410d311d795_HW2_Quality_lossv2.pdf
 file_size: 99509
 file_type: application/pdf
 learning_resource_types:

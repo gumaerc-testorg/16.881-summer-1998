@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Solution to Quiz #7: Design of Dynamic Systems'
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/6b3e05c9b4c1c7f6e3ad695326c4ffff_q7_dynamic_soln.pdf
+file: /courses/16-881-robust-system-design-summer-1998/6b3e05c9b4c1c7f6e3ad695326c4ffff_q7_dynamic_soln.pdf
 file_size: 107036
 file_type: application/pdf
 learning_resource_types:

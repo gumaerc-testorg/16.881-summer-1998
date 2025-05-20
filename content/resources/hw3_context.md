@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Context of Robust Design and the Principles of Quality Engineering
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/af317d0d0727210fa7a6cc52f94d4912_HW3_Context.pdf
+file: /courses/16-881-robust-system-design-summer-1998/af317d0d0727210fa7a6cc52f94d4912_HW3_Context.pdf
 file_size: 120216
 file_type: application/pdf
 learning_resource_types:

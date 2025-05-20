@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Proposed Solution to the Final Exam
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/a780ce0156cc48d11c9b27f2b1615032_RD_final9_soln.pdf
+file: /courses/16-881-robust-system-design-summer-1998/a780ce0156cc48d11c9b27f2b1615032_RD_final9_soln.pdf
 file_size: 190214
 file_type: application/pdf
 learning_resource_types:

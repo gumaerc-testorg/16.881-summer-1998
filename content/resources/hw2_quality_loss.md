@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quality Loss Functions
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/2c16da01770a16ff8fa0b535200d1767_HW2_quality_loss.mcd
+file: /courses/16-881-robust-system-design-summer-1998/2c16da01770a16ff8fa0b535200d1767_HW2_quality_loss.mcd
 file_size: 23081
 file_type: application/octet-stream
 learning_resource_types:
