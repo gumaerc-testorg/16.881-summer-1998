@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Letters 7
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/dd24c8e18ff46ac19cb9aebe704d46d2_letters7.mcd
+file: /courses/16-881-robust-system-design-summer-1998/dd24c8e18ff46ac19cb9aebe704d46d2_letters7.mcd
 file_size: 35694
 file_type: application/octet-stream
 learning_resource_types:

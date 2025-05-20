@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Analysis of Variance: ANOVA'
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/91368a385ca86f8e958cdf7600845dac_l7_anova4.pdf
+file: /courses/16-881-robust-system-design-summer-1998/91368a385ca86f8e958cdf7600845dac_l7_anova4.pdf
 file_size: 321577
 file_type: application/pdf
 learning_resource_types:

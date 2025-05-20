@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PARAMETER DESIGN EXPERIMENT: Helicopter Exercise'
-file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/5ddbb5b778de975ab61934f029884aa7_helicopter_l8_97_ex.xls
+file: /courses/16-881-robust-system-design-summer-1998/5ddbb5b778de975ab61934f029884aa7_helicopter_l8_97_ex.xls
 file_size: 117248
 file_type: application/msword
 learning_resource_types:
