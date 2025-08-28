@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Corr_monte
-file: /courses/16-881-robust-system-design-summer-1998/73e281f8e45b5019eeac8140d7fd4c16_corr_monte.mcd
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/73e281f8e45b5019eeac8140d7fd4c16_corr_monte.mcd
 file_size: 4303
 file_type: application/octet-stream
 learning_resource_types:

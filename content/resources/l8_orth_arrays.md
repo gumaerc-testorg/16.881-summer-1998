@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Constructing Orthogonal Arrays
-file: /courses/16-881-robust-system-design-summer-1998/dc71137bc61a68bd65d8416928727c07_l8_orth_arrays.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/dc71137bc61a68bd65d8416928727c07_l8_orth_arrays.pdf
 file_size: 326585
 file_type: application/pdf
 learning_resource_types:

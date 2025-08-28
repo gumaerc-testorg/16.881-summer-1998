@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Quiz #5: Analysis of Variance'
-file: /courses/16-881-robust-system-design-summer-1998/9073216acf9590b73aac4a8aae91b0d8_q5_anova.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/9073216acf9590b73aac4a8aae91b0d8_q5_anova.pdf
 file_size: 110673
 file_type: application/pdf
 learning_resource_types:

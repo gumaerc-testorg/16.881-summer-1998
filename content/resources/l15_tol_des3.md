@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Exam
-file: /courses/16-881-robust-system-design-summer-1998/725e6afee0f0698780362e394cd2dac7_l15_tol_des3.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/725e6afee0f0698780362e394cd2dac7_l15_tol_des3.pdf
 file_size: 635141
 file_type: application/pdf
 learning_resource_types:

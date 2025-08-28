@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz 7
-file: /courses/16-881-robust-system-design-summer-1998/d10006ec242a5d85c59330815385bc7a_quiz7.xls
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/d10006ec242a5d85c59330815385bc7a_quiz7.xls
 file_size: 14336
 file_type: application/msword
 learning_resource_types:

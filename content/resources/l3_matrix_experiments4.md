@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Matrix Experiments Using Orthogonal Arrays
-file: /courses/16-881-robust-system-design-summer-1998/57cca07d96ee7f3b2933e24727761594_l3_matrix_experiments4.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/57cca07d96ee7f3b2933e24727761594_l3_matrix_experiments4.pdf
 file_size: 182412
 file_type: application/pdf
 learning_resource_types:
