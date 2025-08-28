@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 14 Final 2
-file: /courses/16-881-robust-system-design-summer-1998/234712458be2040d5c7411951ec92f88_L14_Final2.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/234712458be2040d5c7411951ec92f88_L14_Final2.pdf
 file_size: 187355
 file_type: application/pdf
 learning_resource_types:

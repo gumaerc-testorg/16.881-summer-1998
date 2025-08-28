@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Design for Additivity: Air Gap Problem Proposed Solution'
-file: /courses/16-881-robust-system-design-summer-1998/7db9360c6c367e9d5bf0540d805ce319_HW5_solution.pdf
+file: /ol-ocw-studio-app/courses/16-881-robust-system-design-summer-1998/7db9360c6c367e9d5bf0540d805ce319_HW5_solution.pdf
 file_size: 177259
 file_type: application/pdf
 learning_resource_types:
